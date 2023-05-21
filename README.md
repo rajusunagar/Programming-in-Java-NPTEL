@@ -1,2 +1,2 @@
-# Programming-in-Java-NPTEL-master
+# Programming-in-Java-NPTEL
  
